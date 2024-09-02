@@ -57,7 +57,7 @@ const App = () => {
         </Canvas>
       </div>
 
-      <AboutUs />
+      {/* <AboutUs /> */}
     </>
   );
 };
